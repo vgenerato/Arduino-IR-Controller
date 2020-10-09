@@ -14,12 +14,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "4RDUlnc-dkjieGoPEUWDNTara4MjBMXX";
+char auth[] = "AUTH CODE";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "Internet Free";
-char pass[] = "joao101215";
+char ssid[] = "SSIS";
+char pass[] = "PASSWORD";
 
 // or Software Serial on Uno, Nano...
 #include <SoftwareSerial.h>
