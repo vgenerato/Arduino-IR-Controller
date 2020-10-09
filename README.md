@@ -6,7 +6,7 @@ O projeto usou como peças fundamentais:
 
 HARDWARE:
 - Arduino UNO
-- Placa WiFi ESP8266
+- Placa WiFi ESP8266 (COM ADAPTADOR)
 - Protoboard
 - Jumpers de conexão
 - Resistor 10K
