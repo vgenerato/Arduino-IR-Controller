@@ -1,6 +1,8 @@
 # Arduino-IR-Controller
 
-Este projeto consiste na criação de um controle remoto smart. A utilização e envio de comandos pode ser feita tanto por assistente virtual quanto por celular.
+Este projeto consiste na criação de um controle remoto smart. 
+A utilização e envio de comandos pode ser feita tanto por assistente virtual quanto por celular.
+É possível controlar qualquer dispositívo que aceite comandos IR, por exemplo televisões, fitas de led, ventiladores, ar condicionados, etc.
 
 O projeto usou como peças fundamentais:
 
