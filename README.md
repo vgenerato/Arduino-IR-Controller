@@ -15,3 +15,6 @@ SOFTWARE:
 - Arduino IDE
 - Blynk
 - IFTTT
+
+Link para o vídeo de demonstração:
+https://youtu.be/ygRmOr6u38E
